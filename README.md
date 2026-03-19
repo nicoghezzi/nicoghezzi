@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Nico 👋
+E2E Systems & DevOps Engineer
 
-<!--
-**nicoghezzi/nicoghezzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building an open-source design system
+- 📫 nicodghezzi@gmail.com
 
-Here are some ideas to get you started:
+## My value
+Full-cycle engineer specializing in alignment, planning and hands-on execution. I partner with stakeholders to turn high-level goals into prioritized plans and measurable results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top skills
+`Systems Thinkins` `Problem Solving` `Terraform` `Cloud Computing` `Kubernetes`
+
+## Project Highlights
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARK-IMAGE-URL">
+  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHT-IMAGE-URL">
+  <img alt="Banner showing project logo" src="YOUR-DEFAULT-IMAGE-URL">
+</picture>
