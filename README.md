@@ -16,9 +16,9 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 
 ## Accomplishments:
 - Designed Kong API Gateway for 13+ services. Why: Remove TLS/mTLS with OAuth 2.0. 
-- Cloud-Native Communication Platform. Why: Save costs on vendor integration. 
-- Migration to Java 17 of 30+ repos. Why: Ease Code vulnerabilities.
-- Migration REST ecosystem to GraphQL. Why: Eliminate data over-fetching.
-- Middleware Integration for The Walt Disney. Why:  Modernize integration tech stack.
-- Financial and System Integration for LPL Financial. Why: Facilitate financial advisors account opening process.
-- Tableau Dashboards for Johnson & Johnson. Why: Track performance of medical devices.
+- Implemented Cloud-Native Communication Platform infrastructure. Why: Save costs on vendor integration. 
+- Migrated to Java 17 of 30+ repos. Why: Ease Code vulnerabilities.
+- Migrated REST ecosystem to GraphQL. Why: Eliminate data over-fetching.
+- Integrated Middleware for The Walt Disney. Why:  Modernize integration tech stack.
+- Built financial wealth management for LPL Financial. Why: Facilitate financial advisors account opening process.
+- Developed Tableau Dashboards for Johnson & Johnson. Why: Track performance of medical devices.
