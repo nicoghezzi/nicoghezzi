@@ -11,5 +11,20 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ## Core Skills and Tech Stack
 `Systems Thinking` `Problem Solving` `Architecture Design` `Security` | `Terraform` `Cloud Computing` `Kubernetes`
 
-## Previous Employers
-`Kroger` `VICE Media` `Globant` `Beesion Technologies`
+## Resume
+
+`Kroger`
+a. Kong API Gateway instance to harden security.
+b. Cloud-Native Communication Platform to save operational expense on vendors.
+c. Migration to Java 17 of 30+ repos.
+
+`VICE Media`
+a.  Migration REST ecosystem to GraphQL.
+
+`Globant`
+a. Middleware Integration for The Walt Disney.
+b. Financial and System Integration for LPL Financial 
+c. Tableau Dashboards for Johnson & Johnson. 
+
+`Beesion Technologies`
+a. Low-code development for Claro Telco.
