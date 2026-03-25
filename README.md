@@ -1,7 +1,7 @@
 ## Hi, I'm Nico 👋
-E2E Systems & DevOps Engineer | Builder | 
+Senior Systems & DevOps Engineer | I'm a builder | Hire me :)
 
-- 📫 nicodghezzi@gmail.com 
+- 📫 nicodghezzi@gmail.com
 
 ## My value
 Full-cycle engineer specializing in alignment, planning and hands-on execution. 
@@ -12,13 +12,11 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 `Systems Thinking` `Problem Solving` `Architecture Design` `Security` | `Terraform` `Cloud Computing` `Kubernetes`
 
 ## Resume
-`Kroger``VICE Media``Globant``Beesion Technologies`
+`Kroger` `VICE Media` `Globant` `Beesion Technologies`
 
-## Accomplishments:
+## Key Accomplishments:
 - Designed Kong API Gateway for 13+ services. Why: Remove TLS/mTLS with OAuth 2.0. 
 - Implemented Cloud-Native Communication Platform infrastructure. Why: Save costs on vendor integration. 
-- Migrated to Java 17 of 30+ repos. Why: Ease Code vulnerabilities.
 - Migrated REST ecosystem to GraphQL. Why: Eliminate data over-fetching.
 - Integrated Middleware for The Walt Disney. Why:  Modernize integration tech stack.
 - Built financial wealth management for LPL Financial. Why: Facilitate financial advisors account opening process.
-- Developed Tableau Dashboards for Johnson & Johnson. Why: Track performance of medical devices.
