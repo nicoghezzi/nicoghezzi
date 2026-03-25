@@ -11,10 +11,12 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ## Core Skills and Tech Stack
 `Systems Thinking` `Problem Solving` `Architecture Design` `Security` | `Terraform` `Cloud Computing` `Kubernetes`
 
-## Resume
+## Learning Goals
+Kubernetes
+
+## Past Experience and Accomplishments
 `Kroger` `VICE Media` `Globant` `Beesion Technologies`
 
-## Key Accomplishments:
 - Designed Kong API Gateway for 13+ services. Why: Remove TLS/mTLS with OAuth 2.0. 
 - Implemented Cloud-Native Communication Platform infrastructure. Why: Save costs on vendor integration. 
 - Migrated REST ecosystem to GraphQL. Why: Eliminate data over-fetching.
