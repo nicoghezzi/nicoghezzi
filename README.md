@@ -14,17 +14,17 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ## Resume
 
 `Kroger`
-a. Kong API Gateway instance to harden security.
-b. Cloud-Native Communication Platform to save operational expense on vendors.
-c. Migration to Java 17 of 30+ repos.
+- Kong API Gateway instance to harden security.
+- Cloud-Native Communication Platform to save operational expense on vendors.
+- Migration to Java 17 of 30+ repos.
 
 `VICE Media`
-a.  Migration REST ecosystem to GraphQL.
+- Migration REST ecosystem to GraphQL.
 
 `Globant`
-a. Middleware Integration for The Walt Disney.
-b. Financial and System Integration for LPL Financial 
-c. Tableau Dashboards for Johnson & Johnson. 
+- Middleware Integration for The Walt Disney.
+- Financial and System Integration for LPL Financial 
+- Tableau Dashboards for Johnson & Johnson. 
 
 `Beesion Technologies`
-a. Low-code development for Claro Telco.
+- Low-code development for Claro Telco.
