@@ -9,13 +9,13 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ## Core Skills and Tech Stack
 `Systems Thinking` `Problem Solving` `Architecture Design` `Security` | `Terraform` `Cloud Computing` `Kubernetes`
 
-![Mindset: Systems Thinking](https://img.shields.io/badge/Mindset-Systems%20Thinking-1f2937?style=for-the-badge)
-![Skill: Problem-Solving](https://img.shields.io/badge/Skill-Problem--Solving-374151?style=for-the-badge)
-![Discipline: Architecture Design](https://img.shields.io/badge/Discipline-Architecture%20Design-111827?style=for-the-badge)
-![Security: Cloud Security](https://img.shields.io/badge/Security-Cloud%20Security-16a34a?style=for-the-badge&logo=shield&logoColor=white)
-![Infrastructure: Terraform](https://img.shields.io/badge/Infrastructure-Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
-![Cloud: AWS](https://img.shields.io/badge/Cloud-AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Orchestration: Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Systems Thinking](https://img.shields.io/badge/Systems%20Thinking-374151?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-374151?style=for-the-badge)
+![Architecture Design](https://img.shields.io/badge/Architecture%20Design-111827?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-16a34a?style=for-the-badge&logo=shield&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Learning Goals
 Kubernetes
