@@ -7,10 +7,8 @@ I partner with stakeholders to turn high-level goals into prioritized plans and 
 An extensive hands-on experience building and scaling platforms and back-end services. Prepared to add value right away.  
 
 ## Core Skills and Tech Stack
-`Systems Thinking` `Problem Solving` `Architecture Design` `Security` | `Terraform` `Cloud Computing` `Kubernetes`
-
-![Systems Thinking](https://img.shields.io/badge/Systems%20Thinking-374151?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-374151?style=for-the-badge)
+![Systems Thinking](https://img.shields.io/badge/Systems%20Thinking-111827?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-111827?style=for-the-badge)
 ![Architecture Design](https://img.shields.io/badge/Architecture%20Design-111827?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-16a34a?style=for-the-badge&logo=shield&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
