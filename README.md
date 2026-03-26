@@ -1,7 +1,5 @@
 ## Hi, I'm Nico 👋
-Senior Systems & DevOps Engineer | I'm a builder | Hire me :)
-
-- 📫 nicodghezzi@gmail.com
+Senior Systems & DevOps Engineer | I'm a builder |
 
 ## My value
 Full-cycle engineer specializing in alignment, planning and hands-on execution. 
