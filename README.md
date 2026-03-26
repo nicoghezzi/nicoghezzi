@@ -9,6 +9,9 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ## Core Skills and Tech Stack
 `Systems Thinking` `Problem Solving` `Architecture Design` `Security` | `Terraform` `Cloud Computing` `Kubernetes`
 
+![Infrastructure: Terraform](https://img.shields.io/badge/Infrastructure-Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
+
+
 ## Learning Goals
 Kubernetes
 
