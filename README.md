@@ -1,11 +1,11 @@
 ## Hi, I'm Nico 👋
-Senior Systems & DevOps Engineer | I'm a builder |
+E2E Systems & DevOps Engineer | I'm a builder | 
 
 ## My value
 Full-cycle Engineer specializing in gathering requiremens, alignment, planning and hands-on execution. 
-Yes, I'm all-in-one, strategic and tactic. 
+Yes, I'm all-in-one, strategic and tactic, and prepared to add value right away.
 I partner with stakeholders to turn high-level goals into prioritized plans and measurable results. 
-An extensive hands-on experience building and scaling platforms and back-end services. Prepared to add value right away.  
+An extensive hands-on experience building and scaling platforms and back-end services.   
 
 ## Core Skills and Tech Stack
 ![Systems Thinking](https://img.shields.io/badge/Systems%20Thinking-111827?style=for-the-badge)
@@ -18,7 +18,7 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Learning Goals
-Kubernetes
+Kubernetes to pass CKA > CKS
 
 ## Business Impact
 `Kroger` `VICE Media` `Globant` `Beesion Technologies`
