@@ -20,11 +20,11 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ## Learning Goals
 Kubernetes
 
-## Past Experience and Accomplishments
+## Business Impact
 `Kroger` `VICE Media` `Globant` `Beesion Technologies`
 
-- Designed Kong API Gateway for 13+ services. Why: Remove TLS/mTLS with OAuth 2.0. 
-- Implemented Cloud-Native Communication Platform infrastructure. Why: Save costs on vendor integration. 
-- Migrated REST ecosystem to GraphQL. Why: Eliminate data over-fetching.
-- Integrated Middleware for The Walt Disney. Why:  Modernize integration tech stack.
-- Built financial wealth management for LPL Financial. Why: Facilitate financial advisors account opening process.
+- Enabled scalable growth for a cloud-native comms platforms.                       How: by provisioning infrastrucutre, CI/CD pipelines, environments
+- Replaced digital certificates for 13+ critical services.                          How: by designing a Kong OSS API Gateway instance to centralize OAuth 2.0.
+- Eliminated data over-fetching for VICE REST ecosystem.                            How: by deploying 3+ production-ready GraphQL schemas using Apollo.
+- Streamlined Advertising Ad Sales tech stack at Disney.                            How: by integrating 26+ disparate systems into a event-driven architecture.
+- Automated manual retirement opening account process of 2,500 financial advisors.  How: by building and integrating a wealth management platform with BYN Mellon.
