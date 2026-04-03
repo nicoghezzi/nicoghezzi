@@ -18,7 +18,7 @@ An extensive hands-on experience building and scaling platforms and back-end ser
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Learning Goals
-Kubernetes to pass CKA > CKS
+Kubernetes to pass CKA, CKS & MLOps 
 
 ## Business Impact
 `Kroger` `VICE Media` `Globant` `Beesion Technologies`
