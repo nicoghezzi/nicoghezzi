@@ -1,5 +1,5 @@
 ## Hi, I'm Nico 👋
-DevOps / Platform Engineer E2E | I'm a builder | 
+DevOps / Platform Engineer E2E | I'm a builder | AI-powered
 
 ## My value
 Full-cycle Engineer specializing in gathering infrastructure requiremens, alignment, and hands-on execution. 
