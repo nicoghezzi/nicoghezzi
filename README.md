@@ -2,8 +2,8 @@
 DevOps / Platform Engineer E2E | I'm a builder | AI-powered
 
 ## My value
-Full-cycle Engineer specializing in gathering infrastructure requiremens, alignment, and hands-on execution. 
-Yes, I'm all-in-one, strategic and tactic, and prepared to add value right away.
+Full-cycle Engineer specializing in gathering infrastructure requirements, alignment, and hands-on execution. 
+Yes, I'm all-in-one, strategic and tactical, and prepared to add value right away.
 An extensive hands-on experience building, integrating and scaling cloud platforms and back-end services.   
 
 ## Core Skills and Tech Stack
