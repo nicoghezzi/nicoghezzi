@@ -1,5 +1,5 @@
 ## Hi, I'm Nico 👋
-DevOps / Platform Engineer E2E | I'm a builder | AI-powered
+DevOps & Platform Engineering | Kubernetes, Terraform, CI/CD, Cloud Infrastructure | Technical Product Manager
 
 ## My value
 Full-cycle Engineer specializing in gathering infrastructure requirements, alignment, and hands-on execution. 
