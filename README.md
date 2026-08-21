@@ -1,5 +1,5 @@
 ## Hi, I'm Nico 👋
-DevOps & Platform Engineering | Kubernetes, Terraform, CI/CD, Cloud Infrastructure | Technical Product Owner for Infrastructure and DevEx initiatives.
+DevOps & Platform Engineering | Kubernetes, Terraform, CI/CD, Cloud Infrastructure | Technical Owner for Infrastructure and DevEx initiatives.
 
 ## My value
 Full-cycle Engineer specializing in gathering infrastructure requirements, alignment, and hands-on execution. 
