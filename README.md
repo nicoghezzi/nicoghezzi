@@ -1,5 +1,5 @@
 ## Hi, I'm Nico 👋
-DevOps & Platform Engineering | Kubernetes, Terraform, CI/CD, Cloud Infrastructure | Technical Owner for Infrastructure and DevEx initiatives.
+Cloud Infra, DevOps & Platform Engineering | Key Skills: Terraform, CI/CD and Kubernetes | Owner for Infrastructure and DevEx initiatives.
 
 ## My value
 Full-cycle Engineer specializing in gathering infrastructure requirements, alignment, and hands-on execution. 
@@ -16,8 +16,8 @@ An extensive hands-on experience building, integrating and scaling cloud platfor
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Learning Goals
-Kubernetes to pass CKA, CKS & MLOps 
+## Learning Goals in 2026
+Kubernetes to pass CKA, then CKS.
 
 ## Business Impact
 `Kroger` `VICE Media` `Globant` `Beesion Technologies`
